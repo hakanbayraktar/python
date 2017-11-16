@@ -7,3 +7,6 @@ https://github.com/adulau/MalwareClassifier
 https://github.com/radical81/domainWhois
 https://github.com/adulau/passive-dns-atlas
 https://github.com/zant95/hBlock
+https://github.com/zant95/hMirror
+https://github.com/MISP/MISP
+https://github.com/MISP/misp-modules
