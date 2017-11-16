@@ -2,3 +2,8 @@ https://github.com/rshipp/awesome-malware-analysis
 https://zulu.zscaler.com/
 https://zeltser.com/lookup-malicious-websites/
 https://github.com/sbilly/awesome-security
+https://market.mashape.com/explore?tags=Education
+https://github.com/adulau/MalwareClassifier
+https://github.com/radical81/domainWhois
+https://github.com/adulau/passive-dns-atlas
+https://github.com/zant95/hBlock
